@@ -2,13 +2,13 @@
 
 <h1 align="center">Coach App</h1>
 
-Este projecto é basicamente um lembrete que não só "apresenta" frases motivacionais como também pode ser usado para relembrar algumas coisas.
+Este projeto é, essencialmente, um lembrete que não apenas apresenta frases motivacionais, mas também serve como um repositório para recordar algumas informações importantes.
 
 ### Motivação
 
-Sempre que leio um livro, aponto todas as frases que eu considero marcantes nesse livro. Só que com o passar do tempo já não consultava os livros para ler aquelas frases e talvez me lembrar de algo ou me motivar.
+Sempre que leio um livro, anoto todas as frases que considero inspiradoras. No entanto, ao longo do tempo, deixei de consultar os livros para reler essas frases e relembrar insights valiosos ou buscar motivação.
 
-Decidi então criar esta página que vai armazenar algumas frases motivacionais e marcantes para mim. Dessa forma poderei sempre que possível visualizar algumas frases que tenho marcads em alguns livros ou não.
+Foi então que decidi criar esta plataforma que tem como objetivo armazenar as frases motivacionais e significativas que encontro. Dessa forma, sempre que desejar, poderei acessar essas citações que me impactaram, independentemente de terem sido extraídas de livros ou não.
 
 ### Utilização
 
