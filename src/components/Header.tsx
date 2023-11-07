@@ -7,7 +7,7 @@ import { RiTwitterXLine } from "react-icons/ri";
 export default function Header() {
   return (
     <header className="fixed top-0 left-0 right-0 flex items-center justify-between w-full px-14 py-5">
-      <div className="flex items-center gap-1">
+      <div className="flex items-center gap-1 cursor-pointer">
         <Image
           src="/c-logo-black.png"
           alt="Logo Coach app"

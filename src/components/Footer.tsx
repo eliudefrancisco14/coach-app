@@ -7,7 +7,7 @@ export default function Footer() {
         <small className="text-base font-normal leading-none">
           2023 Built by{" "}
           <Links
-            href="https://twitter.com/euotiniel"
+            href="https://euotiniel.com/"
             className="border-b transition-all text-gray-500 duration-500 hover:border-gray-500"
           >
             @euotiniel

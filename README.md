@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center"><img src="./public/c-logo-black.png" alt="Logo coach app" /></p>
 
-## Getting Started
+<h1 align="center">Coach App</h1>
 
-First, run the development server:
+Este projecto é basicamente um lembrete que não só "apresenta" frases motivacionais como também pode ser usado para relembrar algumas coisas.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+### Motivação
+
+Sempre que leio um livro, aponto todas as frases que eu considero marcantes nesse livro. Só que com o passar do tempo já não consultava os livros para ler aquelas frases e talvez me lembrar de algo ou me motivar.
+
+Decidi então criar esta página que vai armazenar algumas frases motivacionais e marcantes para mim. Dessa forma poderei sempre que possível visualizar algumas frases que tenho marcads em alguns livros ou não.
+
+### Utilização
+
+1. Faça fork do repositório
+
+2. Clone o repositório
+
+```
+git clone https://github.com/[se_user_name]/coach-app
+```
+3. Instale as dependências
+
+```
+pnpm install
+# ou
+yarn install
+# ou
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. Rode em sua máquina
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+> Use a porta http://localhost:3000/ caso não estaja sendo utilizada
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```
+pnpm dev
+```
 
-## Learn More
+### Techs
 
-To learn more about Next.js, take a look at the following resources:
+- next js
+- tailwindCSS
+- shadcn/ui
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+<br />
+<samp>Made with ❤ and coffee</samp>
